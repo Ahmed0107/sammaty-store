@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aea52d7c.css",
+    "main.js": "/static/js/main.0b56c641.js",
+    "static/media/image-speaker-zx9.png": "/static/media/image-speaker-zx9.153cd899b91a08b22b1a.png",
+    "static/media/image-xx99-mark-one.jpg": "/static/media/image-xx99-mark-one.3807b3ee0f183b6785c8.jpg",
+    "static/media/image-hero-tablrt.jpg": "/static/media/image-hero-tablrt.13f7f18f9ae7b105ca12.jpg",
+    "static/media/image-headphones.png": "/static/media/image-headphones.fbd401d9c735a217286f.png",
+    "static/media/image-best-gear.jpg": "/static/media/image-best-gear.4d4a28e9e7c9ab158dd8.jpg",
+    "static/media/image-speakers.png": "/static/media/image-speakers.bbb1a70b6ebc42d18df7.png",
+    "static/media/image-zx7.jpg": "/static/media/image-zx7.4601003a52f6fbc1be05.jpg",
+    "static/media/image-xx99-mark-two.jpg": "/static/media/image-xx99-mark-two.0f14e4284f019d62e1d4.jpg",
+    "static/media/image-earphones.png": "/static/media/image-earphones.6e8830d475e04b7b9627.png",
+    "static/media/image-zx9.jpg": "/static/media/image-zx9.598799e2020ad3677dd5.jpg",
+    "static/media/image-hero.jpg": "/static/media/image-hero.55c18e980adf7658ae26.jpg",
+    "static/media/image-speaker-zx7.jpg": "/static/media/image-speaker-zx7.3d4940e89ebadd9beb50.jpg",
+    "static/media/image-yx1-earphones.jpg": "/static/media/image-yx1-earphones.a059b67bb15b7b0dcf94.jpg",
+    "static/media/image-xx59.jpg": "/static/media/image-xx59.77d41dad756f1c6b050b.jpg",
+    "index.html": "/index.html",
+    "main.aea52d7c.css.map": "/static/css/main.aea52d7c.css.map",
+    "main.0b56c641.js.map": "/static/js/main.0b56c641.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea52d7c.css",
+    "static/js/main.0b56c641.js"
+  ]
+}
